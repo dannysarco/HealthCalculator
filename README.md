@@ -9,6 +9,13 @@ HealthCalculator is a SwiftUI application I designed and created primarily for a
 - Calculate and display BMI.
 - Calculate and display Waist-to-Hip Ratio.
 - Toggle between light and dark mode.
+  
+
+
+https://github.com/dannysarco/HealthCalculator/assets/54184032/33015c60-a094-4988-82f7-7112e0187717
+
+
+
 
 ## Installation
 
